@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/mahfujars/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/mahfujarx"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:mahfujarx@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=mahfujars&color=F13024&style=flat-square&label=Profile+views" alt="views">
   <img src="https://img.shields.io/github/followers/mahfujars?label=Follow&style=flat-square&logo=github" alt="Follow">
 </p>
 
@@ -19,6 +20,13 @@ built and maintained 21 modules collecting ~786K price/availability records a
 week into a shared PostgreSQL warehouse, with daily data-quality monitoring and
 hands-on anti-bot bypass. I care about data being **correct, not just present**,
 and pipelines that don't fall over. **Open to new roles.**
+
+### 📌 Highlights
+
+- ~4 years as a Python Data Engineer (**ex-lobstr.io**)
+- Built & ran **21 production scrapers** → **~786K** records/week into a PostgreSQL warehouse
+- Daily data-quality monitoring — price-drift, gap analysis, anomaly & merge validation
+- Anti-bot bypass (Datadome, PerimeterX, Akamai) via proxy rotation & solver services
 
 ### 🧰 Tech
 
@@ -49,28 +57,19 @@ and pipelines that don't fall over. **Open to new roles.**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Featured
+### 🚀 Featured projects
 
-<a href="https://github.com/mahfujars/bazarlens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahfujars&repo=bazarlens&theme=tokyonight&hide_border=true" alt="bazarlens">
-</a>
-<a href="https://github.com/mahfujars/arogga">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahfujars&repo=arogga&theme=tokyonight&hide_border=true" alt="arogga">
-</a>
+**[bazarlens](https://github.com/mahfujars/bazarlens)** — price-intelligence pipeline<br>
+<img src="https://img.shields.io/badge/woob-6E4AA7?style=flat-square"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"><br>
+Multi-marketplace crawlers → PostgreSQL → dbt → price-drop deals. Resumable per-category crawls, period snapshots, proxy rotation, and a FastAPI dashboard.
 
-**bazarlens** — a price-intelligence pipeline (woob → PostgreSQL → dbt → Airflow)
-with resumable per-category crawls, price-drop detection, and a FastAPI dashboard.
+**[Arogga Crawler](https://github.com/mahfujars/arogga)** — pharmacy web crawler<br>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/lxml-1F6FEB?style=flat-square"><br>
+Parallel category scraping via Celery; pagination, rate-limit and 404 handling across the full catalogue.
 
-### 📊 GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahfujars&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujars&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahfujars&theme=tokyonight&hide_border=true" alt="streak">
-</div>
+**[Sia.Ch Crawler](https://github.com/mahfujars/sia)** — Swiss registry crawler<br>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
+Member & office data with AES-decrypted phone numbers.
 
 ---
 
